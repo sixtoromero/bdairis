@@ -1,0 +1,25 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.vsp
+*.pdb
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# SQL Server project files
+*.mdf
+*.ldf
+*.ndf
+
+# Backup files
+*.bak
+
+# SQL Server project files
+*.dbmdl
+*.jfm
+*.mdf
+*.ldf
+*.ndf
